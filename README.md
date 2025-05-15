@@ -1,2 +1,2 @@
-this is your local repo to learn git demo 
-check wheate change has been added to repo or not ?
+This is My local repo to learn git demo.
+To learn and Check whether change has been added to repo or not?
